@@ -1,0 +1,4 @@
+产品配置更改	PRJ1040/prj_business_configuration.view		prj.PRJ1040.prj_business_config 		产品配置更改的查询条件
+回款明细		RPT1050/rpt_transaction_detail.view			rpt.RPT1050.prj_mats_application_vl 	回款明细给出付款方式
+日报表			RPT1070/rpt_daily_report.view 														日报表的默认查询条件				
+月报表			RPT1080/rpt_month_report.view				rpt.RPT1080.prj_mats_application_vl		月报表的默认查询条件
